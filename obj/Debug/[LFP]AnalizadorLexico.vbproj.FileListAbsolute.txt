@@ -1,0 +1,46 @@
+c:\users\erick\documents\visual studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe.config
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.pdb
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Form1.resources
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Resources.resources
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.exe
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.pdb
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe.config
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.pdb
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.xml
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbprojAssemblyReference.cache
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Form1.resources
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Resources.resources
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.GenerateResource.cache
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.CoreCompileInputs.cache
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.exe
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.xml
+E:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.pdb
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe.config
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.pdb
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.xml
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbprojAssemblyReference.cache
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Form1.resources
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Resources.resources
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.GenerateResource.cache
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.CoreCompileInputs.cache
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.exe
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.xml
+A:\USAC\2018\Segundo Semestre\Auxiliatura Lenguajes\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.pdb
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe.config
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.exe
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.pdb
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\bin\Debug\[LFP]AnalizadorLexico.xml
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbprojAssemblyReference.cache
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Form1.resources
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\_LFP_AnalizadorLexico.Resources.resources
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.GenerateResource.cache
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.vbproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.exe
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.xml
+C:\Users\Omar\Documents\Omar\Lenguajes Formales y de programación\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\[LFP]AnalizadorLexico\obj\Debug\[LFP]AnalizadorLexico.pdb
